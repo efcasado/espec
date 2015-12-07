@@ -1,0 +1,7 @@
+_build
+.idea
+cover
+deps
+doc
+tmp
+lib
