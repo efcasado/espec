@@ -17,7 +17,7 @@ defmodule ESpec.Mixfile do
   end
 
   def application do
-    [applications: []]
+    [applications: [:meck]]
   end
 
   defp deps do
